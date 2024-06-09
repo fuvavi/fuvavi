@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+> If you have to choose between being kind and being right choose being kind and you will always be right
 <!--
 **fuvavi/fuvavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
