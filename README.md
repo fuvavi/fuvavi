@@ -22,7 +22,8 @@ Hi there! 👋 My name is Viet Phung V, and I'm a Frontend Developer. Welcome to
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fuvavi&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fuvavi&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuvavi&hide=scss,css,html)
 
 ## Connect with Me
 
