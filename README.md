@@ -26,7 +26,7 @@ Hi there! 👋 My name is Viet Phung V, and I'm a Frontend Developer. Welcome to
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fuvavi&show_icons=true" />
 </a>
 <a href="https://github.com/fuvavi">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuvavi&layout=compact&langs_count=8&card_width=350" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuvavi&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ## Connect with Me
