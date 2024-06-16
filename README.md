@@ -7,27 +7,24 @@ Hi there! 👋 My name is Viet Phung V, and I'm a Frontend Developer. Welcome to
 - 🔭 I'm currently working on Supremetech
 - 📫 How to reach me: [fuvavi.com](https://fuvavi.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m not too excellent but I always responsible and dedicated to my job.
+- ⚡ Fun fact: I’m not too excellent but always responsible and dedicated to my job.
 
 ## Skills
 
 - Programming Languages: Javascript, Typescript, Node.js, PHP, ...
 - Frameworks and Libraries: Bootstrap, Antd, Material, ShadCN, ...
 - Tools and Technologies: Figma, Photoshop, XD, Webflow, GSAP, ...
-- Other Skills: MC 🎤
+- Other Skills: Sleep 🛌😴💤
 
-## Projects
-
-- [TracNghiem.vn](https://tracnghiem.vn): The multiple-choice test format is diverse with a large number of multiple-choice questions in many different fields
-
-## GitHub Stats
-
-<a href="https://github.com/fuvavi">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fuvavi&show_icons=true" />
-</a>
-<a href="https://github.com/fuvavi">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuvavi&layout=compact&langs_count=8&card_width=320" />
-</a>
+## GitHub Activities
+<p align="center">
+  <a href="https://github.com/fuvavi">
+    <img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=fuvavi&show_icons=true" />
+  </a>
+  <a href="https://github.com/fuvavi">
+    <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuvavi&layout=compact&langs_count=8" />
+  </a>
+</p>
 
 ## Connect with Me
 
